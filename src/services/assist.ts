@@ -10,7 +10,7 @@ const WAKE_WORD_ALLOWED_CONTENT_TYPES = [
   "audio/mp4",
   "audio/wav",
 ];
-const WAKE_WORD_ALLOWED_NAMES = ["casita", "ok_nabu"];
+const WAKE_WORD_ALLOWED_NAMES = ["casita", "ok_nabu", "hey_jarvis", "hey_mycroft"];
 const NEGATIVE_WAKE_WORD_ALLOWED_NAMES = ["ok_now"];
 const WAKE_WORD_MAX_CONTENT_LENGTH = 250 * 1024;
 const USER_CONTENT_MAX_CONTENT_LENGTH = 150;
